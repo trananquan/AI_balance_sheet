@@ -3,6 +3,6 @@ streamlit
 datetime
 pandas
 matplotlib
-pyplot
+plotly
 google-generativeai
 
