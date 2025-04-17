@@ -1,1 +1,8 @@
+vnstock
+streamlit
+datetime
+pandas
+matplotlib
+pyplot
+google
 
