@@ -4,5 +4,5 @@ datetime
 pandas
 matplotlib
 pyplot
-google
+google-generativeai
 
